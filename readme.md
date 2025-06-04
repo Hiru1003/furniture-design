@@ -8,7 +8,6 @@ This is a JavaFX-based Furniture Design tool that allows users to:
 - Customize room shape and colors
 - Save and load canvas designs using JSON files
 --
-
 ---
 
 
