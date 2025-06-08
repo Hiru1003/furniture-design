@@ -10,6 +10,7 @@ This is a JavaFX-based Furniture Design tool that allows users to:
 --
 ---
 
+
 ## 📦 Features
 
 - 📐 2D Canvas with interactive furniture placement
